@@ -12,7 +12,7 @@ mypy-extensions==1.0.0
 nodeenv==1.7.0
 packaging==23.0
 pathspec==0.11.0
-pipenv==2023.2.18
+pipenv==2023.3.20
 platformdirs==3.1.0
 pluggy==1.0.0
 pre-commit==3.1.1
