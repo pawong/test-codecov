@@ -11,7 +11,7 @@ iniconfig==2.0.0
 mypy-extensions==0.4.3
 nodeenv==1.8.0
 packaging==23.0
-pathspec==0.10.3
+pathspec==0.11.1
 pipenv==2022.12.19
 platformdirs==2.6.2
 pluggy==1.0.0
