@@ -13,7 +13,7 @@ nodeenv==1.8.0
 packaging==23.1
 pathspec==0.11.2
 pipenv==2023.7.23
-platformdirs==2.6.2
+platformdirs==3.10.0
 pluggy==1.2.0
 pre-commit==3.3.3
 pytest==7.4.0
