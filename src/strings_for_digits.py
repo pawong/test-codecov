@@ -32,9 +32,10 @@ Feel free to use this to save you some time:
 }
 """
 from itertools import product
+from typing import List
 
 
-def strings_for_digits(digits):
+def strings_for_digits(digits: List[int]) -> List[str]:
     b = {
         0: ["-0-"],
         1: ["-1-"],

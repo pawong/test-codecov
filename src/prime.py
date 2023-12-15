@@ -1,4 +1,7 @@
-def check_is_prime(integer: int):
+from typing import Any
+
+
+def check_is_prime(integer: int) -> Any:
     """Check if the number is prime endpoint"""
     if integer == 2:
         return True
