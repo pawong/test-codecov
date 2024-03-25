@@ -5,7 +5,7 @@ cfgv==3.4.0
 click==8.1.7
 distlib==0.3.8
 exceptiongroup==1.2.0
-filelock==3.13.1
+filelock==3.13.3
 identify==2.5.35
 iniconfig==2.0.0
 mypy-extensions==1.0.0
