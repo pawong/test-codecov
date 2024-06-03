@@ -1,6 +1,6 @@
 attrs==23.2.0
 black==24.4.2
-certifi==2024.2.2
+certifi==2024.6.2
 cfgv==3.4.0
 click==8.1.7
 distlib==0.3.8
