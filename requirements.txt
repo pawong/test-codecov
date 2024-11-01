@@ -19,7 +19,7 @@ pre-commit==3.7.1
 pytest==8.3.3
 pytest-cov==5.0.0
 PyYAML==6.0.2
-tomli==2.0.1
+tomli==2.0.2
 typing_extensions==4.12.2
 virtualenv>=20.24.2
 virtualenv-clone==0.5.7
