@@ -15,7 +15,7 @@ pathspec==0.12.1
 pipenv==2025.0.4
 platformdirs>=3.9.1
 pluggy==1.6.0
-pre-commit==4.2.0
+pre-commit==4.3.0
 pytest==8.4.1
 pytest-cov==6.2.1
 PyYAML==6.0.2
