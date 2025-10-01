@@ -18,7 +18,7 @@ pluggy==1.6.0
 pre-commit==4.3.0
 pytest==8.4.1
 pytest-cov==6.2.1
-PyYAML==6.0.2
+PyYAML==6.0.3
 tomli==2.2.1
 typing_extensions==4.15.0
 virtualenv>=20.24.2
