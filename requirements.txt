@@ -17,7 +17,7 @@ platformdirs>=3.9.1
 pluggy==1.6.0
 pre-commit==4.3.0
 pytest==8.4.2
-pytest-cov==6.2.1
+pytest-cov==7.0.0
 PyYAML==6.0.3
 tomli==2.2.1
 typing_extensions==4.15.0
