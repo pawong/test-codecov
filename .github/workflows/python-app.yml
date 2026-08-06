@@ -59,7 +59,7 @@ jobs:
       run: |
         python -m pytest --verbose --junit-xml=junit.xml
     - name: Publish Test Report
-      uses: mikepenz/actions-junit-report@v3
+      uses: mikepenz/action-junit-report@v6
       if: success() || failure()
       with:
         report_paths: '**/junit.xml'
